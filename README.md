@@ -13,6 +13,8 @@ Train Error: 0.714286%
 
 Test Error: 0.75%
 
+Weights: 'vqc_weights.pt'
+
 ----
 
 Multiclass VQC:
@@ -22,6 +24,8 @@ Multiclass VQC:
 Train Error: 18.9%%
 
 Test Error:  18.2%
+
+Weights: 'vqc_weights_2.pt'
 
 ----
 
