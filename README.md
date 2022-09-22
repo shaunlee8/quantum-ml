@@ -23,7 +23,7 @@ Multiclass VQC:
 
 ![image](QMulticlass.png "Loss")
 
-Train Error: 18.9%%
+Train Error: 18.9%
 
 Test Error:  18.2%
 
