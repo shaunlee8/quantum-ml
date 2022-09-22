@@ -1,7 +1,9 @@
 # quantum-ml
+----
 
 This is an experiment in implementing variational quantum circuits for 
 MNIST Handwritten Digit classification.
+
 ----
 Binary classification of 0 and 1 digits:
 
