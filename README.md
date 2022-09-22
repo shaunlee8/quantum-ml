@@ -1,5 +1,37 @@
 # quantum-ml
 
+This is an experiment in implementing variational quantum circuits for 
+MNIST Handwritten Digit classification.
+----
+Binary classification of 0 and 1 digits:
+
+Loss function of VQC:
+
+![image](QBinaryClassifierLoss.png "Loss")
+
+Train Error: 0.714286%
+
+Test Error: 0.75%
+
+----
+
+Multiclass VQC:
+
+![image](QMulticlass.png "Loss")
+
+Train Error: 18.9%%
+
+Test Error:  18.2%
+
+----
+
+Ridge regression on whole dataset:
+
+Train Error: 12.8571%
+
+Test Error: 14.25%
+
+----
 This code is a part of Qiskit
 
 © Copyright IBM 2017, 2022.
